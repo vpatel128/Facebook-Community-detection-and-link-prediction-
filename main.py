@@ -2,7 +2,7 @@
 """
 Created on Wed Oct  5 11:12:43 2016
 
-@author: Bijal Patel
+@author: Vicky Patel
 """
 
 # You should not use any imports not listed here:
